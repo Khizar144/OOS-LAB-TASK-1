@@ -23,4 +23,5 @@ Our project is Hotel management, in this project owner, manager and the customer
 ###### Costomer
 ###### Staff
 ###### Manager
-# use case Diegram![WhatsApp Image 2022-03-31 at 11 45 04 PM](https://user-images.githubusercontent.com/82234187/161128244-4eea137e-f08c-45af-9ee2-541e661721d6.jpeg)
+# use case Diegram
+# ![WhatsApp Image 2022-03-31 at 11 45 04 PM](https://user-images.githubusercontent.com/82234187/161128244-4eea137e-f08c-45af-9ee2-541e661721d6.jpeg)
